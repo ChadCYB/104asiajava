@@ -5,7 +5,6 @@ public class HelloJava {
 		// TODO Auto-generated method stub
 		System.out.println("¡@¡@¡@¡@¡¯¡@¡@¡@");
 		System.out.println("¡@¡@¡@¡¯¡¯¡¯¡@¡@");
-		System.out.println("¡@¡@¡¯¡¯¡¯¡¯¡¯¡@");
 		System.out.println("¡@¡@¡@¡¯¡¯¡¯¡@¡@");
 		System.out.println("¡@¡@¡@¡@¡¯¡@¡@¡@");
 		
